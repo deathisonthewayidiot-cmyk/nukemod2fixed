@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "redstone",
+	"pattern": [
+		"TGT",
+		"GNG",
+		"TGT"
+	],
+	"key": {
+		"T": "minecraft:tnt",
+		"G": "minecraft:gunpowder",
+		"N": "minecraft:nether_star"
+	},
+	"result": { "id": "nuke:nuke", "count": 1 }
+}

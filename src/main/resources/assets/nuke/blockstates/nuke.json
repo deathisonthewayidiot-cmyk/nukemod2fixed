@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"armed=false": { "model": "nuke:block/nuke" },
+		"armed=true": { "model": "nuke:block/nuke_armed" }
+	}
+}
